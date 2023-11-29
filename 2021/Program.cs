@@ -1,0 +1,22 @@
+﻿using AoC_2022;
+
+Console.WriteLine("December 1st");
+Dec1.dec1();
+Console.WriteLine("");
+Console.WriteLine("December 2nd");
+Dec2.dec2();
+Console.WriteLine("");
+Console.WriteLine("December 3rd");
+Dec3.dec3();
+Console.WriteLine("");
+Console.WriteLine("December 4th");
+Dec4.dec4();
+Console.WriteLine("");
+Console.WriteLine("December 5th");
+Dec5.dec5();
+Console.WriteLine("");
+Console.WriteLine("December 6th");
+Dec6.dec6();
+Console.WriteLine("");
+Console.WriteLine("December 7th");
+Dec7.dec7();

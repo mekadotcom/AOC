@@ -1,0 +1,14 @@
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\bin\Debug\net8.0\AoC_2022.exe
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\bin\Debug\net8.0\AoC_2022.deps.json
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\bin\Debug\net8.0\AoC_2022.runtimeconfig.json
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\bin\Debug\net8.0\AoC_2022.dll
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\bin\Debug\net8.0\AoC_2022.pdb
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\obj\Debug\net8.0\AoC_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\obj\Debug\net8.0\AoC_2022.AssemblyInfoInputs.cache
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\obj\Debug\net8.0\AoC_2022.AssemblyInfo.cs
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\obj\Debug\net8.0\AoC_2022.csproj.CoreCompileInputs.cache
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\obj\Debug\net8.0\AoC_2022.dll
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\obj\Debug\net8.0\refint\AoC_2022.dll
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\obj\Debug\net8.0\AoC_2022.pdb
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\obj\Debug\net8.0\AoC_2022.genruntimeconfig.cache
+C:\Users\Michael Glomnes\source\repos\AoC\AoC\obj\Debug\net8.0\ref\AoC_2022.dll
