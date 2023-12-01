@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Michael Glomnes\\Documents\\repo\\AoC\\AoC2022\\AoC2022.csproj": {}
+    "C:\\Users\\Michael Glomnes\\Documents\\repo\\AoC\\AOC2023\\AOC2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Michael Glomnes\\Documents\\repo\\AoC\\AoC2022\\AoC2022.csproj": {
+    "C:\\Users\\Michael Glomnes\\Documents\\repo\\AoC\\AOC2023\\AOC2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michael Glomnes\\Documents\\repo\\AoC\\AoC2022\\AoC2022.csproj",
-        "projectName": "AoC2022",
-        "projectPath": "C:\\Users\\Michael Glomnes\\Documents\\repo\\AoC\\AoC2022\\AoC2022.csproj",
+        "projectUniqueName": "C:\\Users\\Michael Glomnes\\Documents\\repo\\AoC\\AOC2023\\AOC2023.csproj",
+        "projectName": "AOC2023",
+        "projectPath": "C:\\Users\\Michael Glomnes\\Documents\\repo\\AoC\\AOC2023\\AOC2023.csproj",
         "packagesPath": "C:\\Users\\Michael Glomnes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michael Glomnes\\Documents\\repo\\AoC\\AoC2022\\obj\\",
+        "outputPath": "C:\\Users\\Michael Glomnes\\Documents\\repo\\AoC\\AOC2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Michael Glomnes\\AppData\\Roaming\\NuGet\\NuGet.Config",
